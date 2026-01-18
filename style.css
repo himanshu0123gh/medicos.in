@@ -668,7 +668,7 @@ body {
 
 .slider .single-slider .btn {
     color: #fff;
-    background: #1a76d1;
+    background: #203014;
     font-weight: 500;
     display: inline-block;
     margin: 0;
@@ -766,7 +766,7 @@ body {
     text-align: left;
     z-index: 3;
     border-radius: 5px;
-    background: #1A76D1;
+    background: #203014;
     -webkit-transition: all .3s ease-out 0s;
     -moz-transition: all .3s ease-out 0s;
     -ms-transition: all .3s ease-out 0s;
@@ -4578,7 +4578,7 @@ body {
 .footer .footer-top {
     padding: 100px 0px;
     position: relative;
-    background: #1A76D1;
+    background: #203014;
 }
 
 .footer .footer-top:before {
@@ -4784,7 +4784,7 @@ body {
 }
 
 .footer .copyright {
-    background: #1A76D1;
+    background: #203014;
     padding: 25px 0px 25px 0px;
     text-align: center;
 }
